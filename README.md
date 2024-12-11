@@ -12,6 +12,4 @@ Este proyecto permite realizar visualizaciones químicas y generar modelos 3D in
 2. **Modelos 3D Interactivos**
    - Generación de modelos moleculares 3D a partir de notaciones SMILES.
 
-## Organización del Proyecto
-# Pascual Fernandez Jorge Alberto
-# 8 de Diciembre del 2024
+
